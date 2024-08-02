@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="header.png" alt="Header Image" width="960" height="240">
+</p>
+
 <h1 align="center">Hi 👋, I'm Matin</h1>
 <h3 align="center">I am passionate Data Analyst</h3>
 
