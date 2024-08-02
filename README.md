@@ -2,6 +2,9 @@
   <img src="header.png" alt="Header Image" width="960" height="240">
 </p>
 
+<!-- Add background color and content -->
+<div style="background-color: #f8f9fa; padding: 20px; border-radius: 10px;">
+
 <h1 align="center">Hi 👋, I'm Matin</h1>
 <h3 align="center">I am passionate Data Analyst</h3>
 
